@@ -1,3 +1,3 @@
 # Python
 
-Repository for Pyton lessons
+Repository for Python lessons
